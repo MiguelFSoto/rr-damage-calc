@@ -1204,7 +1204,7 @@ var SETDEX_SV = {
     "*Leader Morty Set 1": {"nature":"Jolly","ability":"Disguise","level":32,"item":"Lum Berry","moves":["Play Rough","Shadow Claw","Shadow Sneak","Swords Dance"],"evs":{"at":252,"df":4,"sp":252}},
     "*Leader Morty Set 2": {"nature":"Jolly","ability":"Disguise","level":100,"item":"Ghostium Z","moves":["Play Rough","Shadow Claw","Shadow Sneak","Swords Dance"],"evs":{"at":252,"df":4,"sp":252}},
     "Channeler Tammy": {"nature":"Bold","ability":"Disguise","level":36,"moves":["Hone Claws","Pain Split","Play Rough","Wood Hammer"],"ivs":{"hp":10,"at":10,"df":10,"sp":10,"sa":10,"sd":10}},
-    "Rocket Admin Archer": {"nature":"Jolly","ability":"Disguise","level":79,"item":"Lum Berry","moves":["Play Rough","Shadow Claw","Shadow Sneak","Swords Dance"],"evs":{"hp":6,"at":252,"sp":252}}
+    "Cerulean Archer": {"nature":"Jolly","ability":"Disguise","level":79,"item":"Lum Berry","moves":["Play Rough","Shadow Claw","Shadow Sneak","Swords Dance"],"evs":{"hp":6,"at":252,"sp":252}}
   },
   "Jellicent": {
     "Channeler Karina": {"nature":"Impish","ability":"Water Absorb","level":37,"moves":["Brine","Hex","Hydro Pump","Rain Dance"],"ivs":{"hp":10,"at":10,"df":10,"sp":10,"sa":10,"sd":10}},
@@ -1676,7 +1676,7 @@ var SETDEX_SV = {
   },
   "Houndoom-Mega": {
     "Rocket Admin Archer Set 1": {"nature":"Naive","ability":"Dark Aura","level":55,"item":"Houndoomnite","moves":["Dark Pulse","Heat Wave","Scorching Sands","Sucker Punch"],"evs":{"df":4,"sp":252,"sa":252}},
-    "Rocket Admin Archer Set 2": {"nature":"Timid","ability":"Dark Aura","level":79,"item":"Houndoomnite","moves":["Fiery Wrath","Flamethrower","Sludge Bomb","Sucker Punch"],"evs":{"hp":6,"sp":252,"sa":252}},
+    "Cerulean Archer: {"nature":"Timid","ability":"Dark Aura","level":79,"item":"Houndoomnite","moves":["Fiery Wrath","Flamethrower","Sludge Bomb","Sucker Punch"],"evs":{"hp":6,"sp":252,"sa":252}},
     "*Rocket Admin Archer": {"nature":"Timid","ability":"Solar Power","level":100,"item":"Houndoomnite","moves":["Fiery Wrath","Flamethrower","Sludge Bomb","Solar Beam"],"evs":{"hp":6,"sp":252,"sa":252}}
   },
   "Incineroar": {
@@ -2246,7 +2246,7 @@ var SETDEX_SV = {
     "*Biker Jared": {"nature":"Modest","ability":"Sheer Force","level":63,"item":"Cameruptite","moves":["Ancient Power","Earth Power","Fire Blast","Solar Beam"],"evs":{"hp":252,"df":4,"sa":252}}
   },
   "Mamoswine": {
-    "Rocket Admin Archer": {"nature":"Jolly","ability":"Thick Fat","level":77,"item":"Focus Sash","moves":["Earthquake","Endeavor","Ice Shard","Icicle Crash"],"evs":{"hp":6,"at":252,"sp":252}},
+    "Cerulean Archer": {"nature":"Jolly","ability":"Thick Fat","level":77,"item":"Focus Sash","moves":["Earthquake","Endeavor","Ice Shard","Icicle Crash"],"evs":{"hp":6,"at":252,"sp":252}},
     "*Biker Jared": {"nature":"Jolly","ability":"Thick Fat","level":63,"item":"Soft Sand","moves":["Headlong Rush","Ice Shard","Icicle Crash","Rock Tomb"],"evs":{"at":252,"df":4,"sp":252}}
   },
   "Appletun": {
@@ -2469,7 +2469,7 @@ var SETDEX_SV = {
     "*Leader Jasmine": {"nature":"Modest","ability":"Stalwart","level":71,"item":"Assault Vest","moves":["Body Press","Dragon Pulse","Flash Cannon","Thunderbolt"],"evs":{"hp":252,"sa":252,"sd":4}}
   },
   "Durant": {
-    "Rocket Admin Archer": {"nature":"Jolly","ability":"Hustle","level":78,"item":"Life Orb","moves":["Hone Claws","Iron Head","Superpower","X-Scissor"],"evs":{"hp":6,"at":252,"sp":252}},
+    "Cerulean Archer": {"nature":"Jolly","ability":"Hustle","level":78,"item":"Life Orb","moves":["Hone Claws","Iron Head","Superpower","X-Scissor"],"evs":{"hp":6,"at":252,"sp":252}},
     "*Leader Jasmine": {"nature":"Jolly","ability":"Hustle","level":71,"item":"Life Orb","moves":["Close Combat","Hone Claws","Iron Head","X-Scissor"],"evs":{"at":252,"sp":252,"sd":4}}
   },
   "Grimmsnarl": {
